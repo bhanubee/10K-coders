@@ -1,0 +1,42 @@
+<html>
+    <meta charset="UTF-8">
+    <meta name="viewport"content="width=device-width,initial-scale=1.o">
+    <!-- external styleing -->
+    <link rel="stylesheet"href="./external.css">
+    
+<head>
+    <link rel="shortcut icon"href=""type="Image/x-icon">
+<!-- internal styleing -->
+<style>
+    *{
+        color: blue;
+        text-align: center;
+        background-color: black;
+
+    }
+    #h4style{
+        background-color: rgba(0, 255, 255, 0.461);
+        text-align: center;
+    }
+
+</style>
+</head>
+<body>
+    <!-- inline styleing -->
+    <h1 style="color:red ;text-align:center">Dhasara Festival</h1>
+    <img src="http://3.bp.blogspot.com/-UdlVTyCYunk/UlkMZrgnX1I/AAAAAAAABgI/YDQk5QWPMa4/s1600/Happy+Vijaya+Dashami+Hindi+SMS+Shayari+Wishes.jpg" alt width="200" height"200">
+    <p>Vijayadashami (Sanskrit: विजयदशमी, romanized: Vijayadaśamī), also known as Dussehra,[a] Dasara or Dashain, is a major Hindu festival celebrated every year at the end of Navaratri. It is observed on the tenth day of the month of Ashvin, the seventh in the Hindu Luni-Solar Calendar.[6][7][8] The festival which typically falls in the Gregorian calendar months of September and October.
+        <hr>
+
+        <div style="color:rgb(255, 174, 0)">Vijayadashami is observed for different reasons and celebrated differently in various parts of the Indian subcontinent.[1][9][6] In the southern, eastern, northeastern, and some northern states of India, Vijayadashami marks the end of Durga Puja, remembering goddess Durga's victory against the buffalo demon Mahishasura to restore and protect dharma.[6][10][11] In the northern, central and western states, it marks the end of Ramlila and commemorates god Rama's victory over the demon king Ravana.[12] Alternatively, it marks a reverence for one of the aspects of goddess Devi, such as Durga or Saraswati.[1][7][8]
+        
+        Vijayadashami celebrations include processions to a river or ocean front that involve carrying clay statues of Durga,[13] Lakshmi, Saraswati, Ganesha and Kartikeya, accompanied by music and chants, after which the images are immersed in the water for dissolution and farewell. In other places, towering effigies of Ravana, symbolising evil, are burnt with fireworks, marking evil's destruction. The festival also starts the preparations for Diwali, the important festival of lights,</div> which is celebrated twenty days after Vijayadashami.[1</p>
+        <hr>
+        <h1 style="color:rgb(255, 0, 187) ;text-align:center">NorthIndian Style Festival</h1>
+        <img src="http://images.newindianexpress.com/uploads/user/imagelibrary/2017/9/21/original/11BL3P05.JPG" alt width="200" height="200">
+        <h4 id="h4style1">In most of northern India, Vijayadashami is celebrated in honour of Lord Rama. In many places, the Ramlila, a dramatic performance on story of Rama is enacted over the 9 days leading up to the festival. The performance is inspired from the Ramcharitmanas, a Hindu text written by Tulsidas.[30] Effigies of the demons Ravana, Kumbhakarna and Meghanada are also created and burnt on bonfires in the evening.[8] In other cities, such as Varanasi, the entire story is freely acted out by performance-artists before the public every evening for a month.[22]
+
+The performance arts tradition during the Dussehra festival was inscribed by UNESCO (United Nations Educational, Scientific and Cultural Organization) as one of the "Intangible Cultural Heritage of Humanity" in 2008.[31] It is celebrated across northern India for Dussehra, but particularly in historically important Hindu cities of Ayodhya, Varanasi, Vrindavan, Almora, Satna and Madhubani.[31] The festival and dramatic enactment of the virtues versus vices filled story is organised by communities in hundreds of small villages and towns, attracting a mix of audiences from different social, gender and economic backgrounds. In many parts of India, the audience and villagers join in and participate spontaneously, helping the artists, others helping with stage setup, make-up, effigies, and lights.[31] These arts come to a close on the night of Dussehra, when the victory of Rama is celebrated by burning the effigies of the evil Ravana and his allies.[19]</h4>
+</body>
+
+</html>
