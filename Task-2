@@ -1,0 +1,194 @@
+<html><details><summary>Css task-2</summary>
+    <head>
+        <title>
+            Resume
+        </title>
+        <style>h1{
+            color: rgb(21, 255, 0);
+            background-color: rgb(226, 43, 116);
+            text-decoration-line:overline;
+            text-decoration-style:double;
+        }
+        p{
+            text-align-last:right;
+            
+        }
+        {
+            direction:rtl;
+            unicode-bidi: bidi-override:important;
+
+
+        }
+       
+
+        
+
+        
+        
+        
+            </style>
+    </head>
+    <body>
+       <center> <h1>Chitrachedu.Bhanubee </h1></center>
+       <img src="./WhatsApp Image 2023-10-03 at 04.16.41_281815cf.jpg "weight="100"height="100">
+       <hr>
+       <details>
+        <summary>Click Here</summary>
+        <summary class="styling1">Click Here</summary>
+    
+       <hr>
+       <!-- <inline style> -->
+       <h3 style="color:red;background-color: blue;text-align: right;">CAREER OBJECTIVE:</h3>
+       <p style="text-align: justify; text-shadow:2px 2px 2px green;">I look forward to an experience that is both intellectually and
+         professionally valuable.  I hope to see myself grow as a professional
+          and as an individual.
+
+Working in an innovative and competitive world. I wish to
+ contribute to the organization with hard work sincerity patience 
+ and dedication and my capabilities by continuous learning.
+</p>
+<hr>
+<h3 style="text-shadow:2px 2px 2px rgb(0, 17, 128)";><u>Educational Qualifications</u></h3>
+<table>
+    <style>
+        table,tr,th,td{
+            border: 2px solid black;
+            border-collapse:separate
+            
+        
+        }
+            </style>
+            <tr style="text-shadow:2px 2px 2px rgb(128, 0, 0)">
+                <th>Qualification</th>
+                <th>Institution</th>
+                <th>Year of passing</th>
+                <th>GPA</th>
+            </tr>
+            <tr>
+                <td>10th Board Examinations</td>
+                <td>Z.P.G.High school</td>
+                <td>2017</td>
+                <td>8.2</td>
+            </tr>
+            <tr>
+                <td>Intermediate Education</td>
+                <td>Mahatma College</td>
+                <td>2019</td>
+                <td>6.2</td>
+            </tr>
+            <tr>
+                <td>B.s.c(computers)</td>
+                <td>Sri Sai Degree college</td>
+                <td>2022</td>
+                <td>7.3</td>
+            </tr>
+    </table>
+    <hr>
+    <details>
+        <summary style="text-decoration:overline red double;">
+            Hobbies
+        </summary>
+        <ul>Art</ul>
+        <ul>Watching movies</ul>
+        <ul>playing games</ul>
+
+    </details>
+    <hr>
+    <details>
+        <summary style="text-decoration: underline red dotted 5px;">Technical Skills</summary>
+        <ul>HTML</ul>
+        <ul>DBMS</ul>
+        <ul>ADEO</ul>
+    </details>
+    <hr>
+    <details>
+        <summary style="text-decoration: overline green dotted 5px;">Personal Details</summary>
+        <ul>Name->C.BHANUBEE</ul>
+        <ul>DOB->10/05/2001</ul>
+        Email->chitrachedusana@gmail.com
+    </details>
+    <hr>
+    <details>
+        <summary style="text-decoration: underline blueviolet dashed;">Declaration</summary>
+        <ul>NAME:C.Bhanubee</ul>
+        <img src="./WhatsApp Image 2023-10-03 at 06.12.45_0bdf0f52.jpg"weight="100"height="100">
+        signature:
+    
+    </details>
+       
+            
+        
+    
+
+
+    </body>    
+        
+   
+</html></details></details>
+<html><details><summary>Css Task-3</summary>
+    
+    <head>
+        <title>
+            Restaurant Web site
+            <link rel="shortcut icon" href="https://media-cdn.tripadvisor.com/media/photo-s/15/47/80/6f/photo0jpg.jpg" type="image/x-icon">
+        </title>
+        <style>header{
+            background-color: rgb(43, 226, 180);
+        }
+        ul{list-style-type: circle;}
+        summary{
+            color: rgb(255, 0, 60);
+            background-color: rgb(221, 255, 127);
+        }
+        </style>
+    </head>
+    <body>
+        <header style="font-style: italic;"><q>Nature Foodie Restaurant</q></header>
+        <details>
+            <summary>
+                <img src="https://www.jetsetter.com/uploads/sites/7/2018/04/N-8dtAdp.jpeg" alt="Restaurant Furniture"weight="150"height="150">
+                <hr>
+                <details>
+                <summary><h2 style="font-family: cursive;">Menu</h2></summary>
+                <b>Vege items</b>
+                <img src="https://fthmb.tqn.com/dMrWS2PnCM6Q_Nf635TnpB9HT1w=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/Mutter-Paneer-GettyImages-670907161-58d00a633df78c3c4f3b9bb2.jpg" alt=""wiegh="150"height="150">
+                <img src="https://www.thespruceeats.com/thmb/_NbhSMvHG4vw08zg3md7NiJ37Vc=/2999x1999/filters:fill(auto,1)/vegetarian-pad-thai-3217746-10-10-5b0da1deeb97de003761334d.jpg" alt weight="150"height="150">
+                <img src="https://isteam.wsimg.com/ip/a7cb46b0-26b6-4a58-9dfd-7b18b08b3a5d/Vegetarian%20Thali.jpg" alt weight="150"height="150">
+                
+                
+
+                <ul style="text-shadow: blueviolet 2px 2px 2px;">
+                    Paneer Makhani Briyani
+                    <ul>Mushroom Kofta</ul>
+                    <ul>vegmanchurian</ul>
+                    <ul>Veg fried rice
+                </ul></details>
+                <hr>
+                <details>
+                <summary><h2 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Non-vege items</h2></summary>
+                <img src="https://i.ytimg.com/vi/2zW3562zoiE/maxresdefault.jpg" alt weight="150"height="150">
+                <img src="https://cf.creatrip.com/original/blog/14/KakaoTalk_20160326_111530149.jpg" alt weight="150"height="150">
+                <img src="https://images.creativemarket.com/0.1.0/ps/5813908/1820/1820/m1/fpnw/wm1/wzxzyw63bmn6amnux9jyi0lnkh6v9wpjsiqs2ccw3exsafsaml48jyf3tzemj7iz-.jpg?1549204362&s=cf138535142c4e2b72369797f14ac865" alt weight="150"height="150">
+                <ul style="text-shadow:red 4px 4px 4px ;">Egg Briyani
+                    <ul>Chicken Briyani</ul>
+                    <ul>Chicken manchurian</ul>
+                    <ul>Chicken Noodles
+                </ul>
+               </details>
+               <details>
+                <summary style="text-decoration:underline rgb(255, 0, 238) dashed;">Address</summary>
+                <iframe width="591" height="360" src="https://www.youtube.com/embed/Y0KWim6v3YA" title="Hyderabad ORR Metro Corridors | New Metro Routes | #hyderabad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+               </details>
+               <hr>
+               <details>
+                <summary style="text-shadow: rgb(91, 42, 165) 5px 5px 5px font-family-italic;">Video link</summary>
+                <img src="https://images.indulgexpress.com/uploads/user/ckeditor_images/article/2018/3/30/VIVAHA1.jpg" alt weight="200" height="200">
+
+
+ 
+                No:8694586999.
+                </details>
+                
+                </details>
+    </body>
+</html></details>
