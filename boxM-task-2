@@ -5,19 +5,78 @@
            <title>boxModel-Tasks</title>
            
                    <style>
-                       summary{
-                           background-color: rgb(255, 136, 0);
-                           color: darkmagenta;
+                    header{
+                           background-color: black;
+                           color: rgb(0, 139, 113);
                            font-size: larger;
                            width: 1500px;
-                           height: 100px;
-                           padding: 30;
-                           padding-left: 550px;
-                           border-radius: 50px;
-                           box-sizing: border-box;
-                           outline:5px; 
+                           height: 5px;
+                           padding: 20px;
+                           padding-left:
+                    }
+                  footer{
+                        background-color: rgb(47, 79, 79);
+                        padding-left: 80px;
+                        border-radius: 10px;
+                        margin:30px;
+                        outline:20px;
+                        text-decoration: dotted;
+                        color: coral;
+                        text-shadow: darkblue ;
+                    
+                    }
                            
-                       }
+                           
+                           
+                       
                     </style>
         </head>
+        <body>
+          <header><a href ="#Navobar">Home  </a>
+          <a href="#Navobar"> Menu </a>
+           <a href="#Navobar"> About </a>
+           <a href="#Navobar"> Location</a></header>
+           <div id="Home"><h1 style="background-color: rgb(184, 11, 164);">Home</h1>
+            <img src="https://images.indulgexpress.com/uploads/user/ckeditor_images/article/2018/3/30/VIVAHA1.jpg" alt width="250px" height="250px">
+         <img src="https://images.indulgexpress.com/uploads/user/imagelibrary/2023/4/13/original/vivaha4_2303chn_1.jpg" alt width="250px" height="250px">
+        </div> 
+        <hr>
+           
+           <div  id="Menu"><h1 style="background-color: darkgoldenrod;">Menu-bar</h1>
+           <span style="background-color: aqua;">Menu<h1>Vegetarien</h1></span>
+        
+           <img src="https://fthmb.tqn.com/dMrWS2PnCM6Q_Nf635TnpB9HT1w=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/Mutter-Paneer-GettyImages-670907161-58d00a633df78c3c4f3b9bb2.jpg" alt=""wiegh="150"height="150">
+           <img src="https://www.thespruceeats.com/thmb/_NbhSMvHG4vw08zg3md7NiJ37Vc=/2999x1999/filters:fill(auto,1)/vegetarian-pad-thai-3217746-10-10-5b0da1deeb97de003761334d.jpg" alt weight="150"height="150">
+           <img src="https://isteam.wsimg.com/ip/a7cb46b0-26b6-4a58-9dfd-7b18b08b3a5d/Vegetarian%20Thali.jpg" alt weight="150"height="150">
+           
+           
+
+           <ul style="text-shadow: blueviolet 2px 2px 2px;"></ul>
+               Paneer Makhani Briyani
+               <ul>Mushroom Kofta</ul>
+               <ul>vegmanchurian</ul>
+               <ul>Veg fried rice</ul></div>
+           <div><span>Menu<h1>Non-vegetarien</h1></span>
+            <h2 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Non-vege items</h2></summary>
+                <img src="https://i.ytimg.com/vi/2zW3562zoiE/maxresdefault.jpg" alt weight="150"height="150">
+                <img src="https://cf.creatrip.com/original/blog/14/KakaoTalk_20160326_111530149.jpg" alt weight="150"height="150">
+                <img src="https://images.creativemarket.com/0.1.0/ps/5813908/1820/1820/m1/fpnw/wm1/wzxzyw63bmn6amnux9jyi0lnkh6v9wpjsiqs2ccw3exsafsaml48jyf3tzemj7iz-.jpg?1549204362&s=cf138535142c4e2b72369797f14ac865" alt weight="150"height="150">
+                <ul style="text-shadow:red 4px 4px 4px ;">Egg Briyani</ul>
+                    <ul>Chicken Briyani</ul>
+                    <ul>Chicken manchurian</ul>
+                    <ul>Chicken Noodles
+                </ul></div>
+                <hr>
+           <div id="Location" style="background-color: blueviolet;">Maps
+            <summary style="text-decoration:underline rgb(255, 0, 238) dashed;">Address</summary>
+                <iframe width="591" height="360" src="https://www.youtube.com/embed/Y0KWim6v3YA" title="Hyderabad ORR Metro Corridors | New Metro Routes | #hyderabad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+               </details></div>
+               <hr>
+               <details><div id="About">
+                <summary style="text-shadow: rgb(91, 42, 165) 5px 5px 5px font-family-italic;">Video link</summary>
+                <img src="https://images.indulgexpress.com/uploads/user/ckeditor_images/article/2018/3/30/VIVAHA1.jpg" alt weight="200" height="200">
+               </details></div>
+               <hr>
+          <footer>It's a Naturefood Restarent</footer> 
+        </body>
 </html>        

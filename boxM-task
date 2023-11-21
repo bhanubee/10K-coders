@@ -50,8 +50,8 @@
                    <a href="#Chapter-1" style="background-color: darkgoldenrod;">Chapter-1</a>
                    <a href="#Chapter-2"style="background-color:orange;">Chapter-2</a>
                    <a href="#Chapter-3"style="background-color:red;">Chapter-3</a>
-                   <a href="#Chapter-4"style="background-color:lightrose;">Chapter-4</a>
-                   <a href="#Chapter-5"style="background-color:hotgreen ;">Chapter-5</a>
+                   <a href="#Chapter-4"style="background-color:green;">Chapter-4</a>
+                   <a href="#Chapter-5"style="background-color:skyblue;">Chapter-5</a>
                    <div id="Chater-1">
                        <h1 style="background-color: darkolivegreen;"> Chater-1</h1>
                        <img src="https://amorzenlife.com/wp-content/uploads/2019/07/The-World-is-Your-Mirror-1.png" alt="" wigth="150" height="150">
